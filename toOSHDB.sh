@@ -8,12 +8,12 @@ while test $# -gt 0; do
             echo "Possible Arguments -"
             echo " "
             echo "options:"
-            echo "-h, --help                show brief help"
+            echo "-h, --help                        show brief help"
             echo "-root, --root=ABS_PATH_ROOT       specify absolute path of root directory where this repo resides"
-            echo "-shp, --shp=ABS_PATH_SHP      specify absolute path of shapefile, without extension"
-            echo "-osm, --osm=ABS_PATH_OSM      specify absolute path of osm, without extension"
-            echo "-pbf, --pbf=ABS_PATH_PBF      specify absolute path of pbf, without extension"
-            echo "-o, --output=ABS_PATH_OUTPUT       specify absolute path of output directory along with filename, without extension"
+            echo "-shp, --shp=ABS_PATH_SHP          specify absolute path of shapefile, without extension"
+            echo "-osm, --osm=ABS_PATH_OSM          specify absolute path of osm, without extension"
+            echo "-pbf, --pbf=ABS_PATH_PBF          specify absolute path of pbf, without extension"
+            echo "-o, --output=ABS_PATH_OUTPUT      specify absolute path of output directory along with filename, without extension"
             exit 0
             ;;
         -root)
