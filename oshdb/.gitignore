@@ -1,0 +1,64 @@
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# maven generated target folder
+**/target/
+
+# eclipse stuff
+.project
+.classpath
+.settings
+
+# intellij stuff
+*.iml
+.idea
+
+# netbeans stuff
+nb-configuration.xml
+nbactions*.xml
+**/nbproject/
+
+# gedit stuff
+*~
+*.swp
+
+# DB stuff
+temp_*
+*.mv.db
+*.trace.db
+extract_keys
+extract_keyvalues
+extract_meta
+extract_roles
+*.idx
+*.map
+*.bitmap
+transform_node_00_00
+transform_relation_00_00
+transform_role2Id
+transform_tag2Id
+transform_way_00_00
+
+
+## But track these files:
+!oshdb/src/test/resources/keytables.mv.db
+!oshdb-api/src/test/resources/tes-data.mv.db
+!oshdb-tool/etl/src/test/resources/test.mv.db
+!oshdb-util/src/test/resources/test-data.mv.db
+
+# shade plugin results
+**/dependency-reduced-pom.xml
+
+# mac stuff
+.DS_Store
