@@ -9,12 +9,12 @@ Create Oshdb database file - https://gitlab.gistools.geog.uni-heidelberg.de/gisc
 
 - When converting Shapefile
 
- ``` bash /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db -shp /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/sample_data/polyshp -o /Users/zia/Desktop/test ```
+ ``` bash /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db -shp /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/sample_data/polyshp -o /Users/zia/Desktop/test ```
 
 - When converting OSM file
 
-``` bash /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db -osm /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/sample_data/map -o /Users/zia/Desktop/test ```
+``` bash /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db -osm /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/sample_data/map -o /Users/zia/Desktop/test ```
 
 - When converting PBF file
 
-``` bash /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db -pbf /Users/zia/Documents/codes/gitHub/shp-or-osm-to-oshdb-mv-db/sample_data/andorra -o /Users/zia/Desktop/test ```
+``` bash /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db -pbf /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/sample_data/andorra -o /Users/zia/Desktop/test ```
