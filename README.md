@@ -18,3 +18,7 @@ Create Oshdb database file - https://gitlab.gistools.geog.uni-heidelberg.de/gisc
 - When converting PBF file
 
 ``` bash /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/toOSHDB.sh -root /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db -pbf /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/sample_data/andorra -o /Users/zia/Desktop/test ```
+
+**Help Commands** -
+
+``` bash /Users/zia/Documents/codes/gitHub/shp_osm_pbf_TO_oshdb.mv.db/toOSHDB.sh -h ```
