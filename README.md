@@ -3,7 +3,7 @@ Create Oshdb database file - https://gitlab.gistools.geog.uni-heidelberg.de/gisc
 
 **Download the repo**
 
-``` git clone https://github.com/Zia-/shp-or-osm-to-oshdb-mv-db.git ```
+``` git clone https://github.com/Zia-/shp_osm_pbf_TO_oshdb.mv.db.git ```
 
 **Possible Commands** -
 
